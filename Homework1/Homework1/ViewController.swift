@@ -26,7 +26,7 @@ class ViewController: UIViewController {
             
             print(sumdouble)
             
-            if sumint % 2 != 0 {
+            if sumint % 2 == 0 {
                 print("\(sumint) четное число") }
             else {
                 print("нечетное число")
