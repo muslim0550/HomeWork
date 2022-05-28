@@ -95,11 +95,11 @@ class findDegree {
             let i = pow(Double(a),2)
             print(i) //не выводится значение на консоль
                          
-                          // let degree = { (a: Int) -> (Double) in
+                          // let degree1 = { (a: Int) -> (Double) in
                           // let i = Double(a * a)
                           // return i
                           // }
-                          // print(degree(9)) добавил еще другой пример, но не уыерен что он соответствует условию
+                          // print(degree1(9)) добавил еще другой пример, но не уыерен что он соответствует условию
     }
 }
 
